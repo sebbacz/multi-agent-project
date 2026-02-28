@@ -1,6 +1,6 @@
 # Multi-Agent Meeting Assistant
 
-## Author: Sebastian Gondek
+###  Author: Sebastian Gondek
 
 ## Overview
 A FastAPI service that processes meeting transcripts using a multi\-agent pipeline to extract:
